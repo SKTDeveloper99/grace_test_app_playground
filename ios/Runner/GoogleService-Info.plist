@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>203852131212-spr7p5o9u6ckvc03lkv7bq0pq65jgccg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.203852131212-spr7p5o9u6ckvc03lkv7bq0pq65jgccg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLbXW9JaF_ZwQGS4X7LH9Uzg6k_ANVTGc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>203852131212</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gracesoftware.graceTestApp</string>
+	<key>PROJECT_ID</key>
+	<string>dreamport-news</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dreamport-news.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:203852131212:ios:8de6589cd444df02c5c4a9</string>
+	<key>DATABASE_URL</key>
+	<string>https://dreamport-news-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

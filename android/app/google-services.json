@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "203852131212",
+    "firebase_url": "https://dreamport-news-default-rtdb.firebaseio.com",
+    "project_id": "dreamport-news",
+    "storage_bucket": "dreamport-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203852131212:android:d2afa5a2bc322d30c5c4a9",
+        "android_client_info": {
+          "package_name": "com.gracesoftware.grace_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203852131212-d8ibb95moa1q341kfjt6cos4lcerumnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXIN38I-vlu_Tm4Rinxq6agO6sW7wipE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203852131212-8haplu8v6taev0boesa01q66vn6ees73.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203852131212-6sjuoi1k3bb9mp51u4bi4vf0lvqiragt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.graceyan.dreamportNews"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203852131212:android:5d11efe16d9f0e04c5c4a9",
+        "android_client_info": {
+          "package_name": "com.graceyan.dreamport_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203852131212-d8ibb95moa1q341kfjt6cos4lcerumnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXIN38I-vlu_Tm4Rinxq6agO6sW7wipE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203852131212-8haplu8v6taev0boesa01q66vn6ees73.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203852131212-6sjuoi1k3bb9mp51u4bi4vf0lvqiragt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.graceyan.dreamportNews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
